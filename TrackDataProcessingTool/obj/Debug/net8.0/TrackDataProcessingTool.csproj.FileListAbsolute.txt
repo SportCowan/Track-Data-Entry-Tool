@@ -1,0 +1,14 @@
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\bin\Debug\net8.0\TrackDataProcessingTool.exe
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\bin\Debug\net8.0\TrackDataProcessingTool.deps.json
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\bin\Debug\net8.0\TrackDataProcessingTool.runtimeconfig.json
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\bin\Debug\net8.0\TrackDataProcessingTool.dll
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\bin\Debug\net8.0\TrackDataProcessingTool.pdb
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\obj\Debug\net8.0\TrackDataProcessingTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\obj\Debug\net8.0\TrackDataProcessingTool.AssemblyInfoInputs.cache
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\obj\Debug\net8.0\TrackDataProcessingTool.AssemblyInfo.cs
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\obj\Debug\net8.0\TrackDataProcessingTool.csproj.CoreCompileInputs.cache
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\obj\Debug\net8.0\TrackDataProcessingTool.dll
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\obj\Debug\net8.0\refint\TrackDataProcessingTool.dll
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\obj\Debug\net8.0\TrackDataProcessingTool.pdb
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\obj\Debug\net8.0\TrackDataProcessingTool.genruntimeconfig.cache
+C:\Users\speee\Documents\Git Hub Projects\Track-Data-Entry-Tool\TrackDataProcessingTool\obj\Debug\net8.0\ref\TrackDataProcessingTool.dll
